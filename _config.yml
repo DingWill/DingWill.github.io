@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 桥豆麻袋 -- Chay
-subtitle:
+title: Chay's Blog
+subtitle: 桥豆麻袋
 description:
 keywords:
 author: CHAY WU
@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/DingWill/DingWill.github.io.git
+  repository: git@github.com:DingWill/DingWill.github.io.git
   branch: master
